@@ -1,0 +1,32 @@
+body{
+	background-color: #27b09042;
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25px;         
+  font-style: normal; 
+  font-weight: bold; 
+  color: #79554891;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table.abcd{
+  font-family: Calibri; 
+   
+  font-size: 15px; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: #27b09042; 
+  border-collapse: collapse; 
+
+  border: 1px solid navy blue
+}
+table.inner{
+  border: 1px
+  border-collapse: collapse;
+}
+.error{
+  color: red;
+}
